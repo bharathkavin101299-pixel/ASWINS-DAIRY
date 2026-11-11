@@ -1,1 +1,21 @@
-# ASWINS-DAIRY
+# ASWINS DAIRY 
+{
+  "name": "aswins-dairy",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "firebase": "^10.8.0",
+    "lucide-react": "^0.344.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "recharts": "^2.12.0"
+  },
+  "devDependencies": {
+    "vite": "^5.1.4"
+  }
+}
